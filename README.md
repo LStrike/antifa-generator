@@ -1,7 +1,7 @@
 # Antifa Generator
 
 Gerador de logos antifacistas
-https://bambatatech.github.io/antifa-generator/
+https://lstrike.github.io/antifa-generator/
 
 # Agradecimentos
 
